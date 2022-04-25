@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <GuessNumberGame MAX={1000} />
       <JankenGame />
-      <h1>作者：坂井 優紀</h1>
+      <h3>作者：坂井 優紀</h3>
     </div>
   );
 }
